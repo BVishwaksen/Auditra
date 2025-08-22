@@ -1,0 +1,34 @@
+# Dependencies
+Backend/node_modules/
+Extension/node_modules/
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+Backend/.env
+Backend/.vercelignore
+Backend/.gitignore
+Backend/uploads
+Backend/.vercel
+Bakcend/.env.local
+Extension/.env
+Extension/.gitignore
+Extension/.env.local
+.env
+.env.local
+
+
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+Backend/dist/
+Extension/dist/
+Extension/build/
