@@ -2,12 +2,12 @@
   "version": "1.0.0",
   "manifest_version": 3,
   "name": "AudiTra - Live Audio Translation",
-  "description": "This is a Chrome extension built with React and TypeScript",
+  "description": "This is a Chrome extension for Live Audio Transcription of your tabs audio content",
   "side_panel": {
     "default_path": "js/index.html"
   },
   "action": {
-    "default_title": "React Chrome Extension"
+    "default_title": "AudiTra - Live Audio Translation"
   },
   "background": {
     "service_worker": "js/service_worker.js"
