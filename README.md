@@ -51,10 +51,10 @@ GEMINI_API_KEY=<<your_google_gemini_api_key_here>>
 PORT=3000
 ```
 
-Start the backend server:
+Start the backend server in development mode:
 
 ```bash
-node server.js
+npm run dev
 ```
 
 The server will start on `http://localhost:3000`.
@@ -77,7 +77,7 @@ npm run build
 1. Open Chrome and go to `chrome://extensions/`
 2. Enable **Developer Mode** (toggle in top right)
 3. Click **Load Unpacked**
-4. Select the `build` folder from the Extension directory
+4. Select the `dist` folder from the Extension directory
 5. The extension will appear in your extensions list
 
 ## API Key Configuration
