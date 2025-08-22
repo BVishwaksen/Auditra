@@ -139,25 +139,6 @@ Once setup is complete, you can:
 - Uses Chrome Extension APIs for tab audio capture
 - Communicates with backend via HTTP requests
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-[Add your license information here]
-
-## Support
-
-If you encounter any issues, please check:
-1. Node.js version compatibility (v16+)
-2. API key configuration
-3. Chrome extension permissions
-4. Backend server status
 
 ---
 
