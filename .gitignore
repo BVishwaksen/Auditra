@@ -3,10 +3,6 @@ Backend/node_modules/
 Extension/node_modules/
 node_modules/
 
-# Logs
-*.log
-npm-debug.log*
-
 # Environment variables
 Backend/.env
 Backend/.vercelignore
